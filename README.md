@@ -1,7 +1,7 @@
  <h1 align="center">🚀 Ansh's Coding Journey</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Java+Learner;DSA+Explorer;Hi+I+am+Ansh;Building+One+Project+At+A+Time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Java+Learner;DSA+Explorer;Hi+I'm+Ansh+Rastogi" />
 </p>
 
 ---
