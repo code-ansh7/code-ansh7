@@ -28,7 +28,8 @@
 ☑ Java Basics
 ☑ OOPs
 ☑ Exception Handling
-☐ Collections Framework
+☑ Collections Framework
+☐ File Handling
 ☐ DSA Patterns
 
 ```
