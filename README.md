@@ -1,10 +1,6 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/code-ansh7/code-ansh7/main/banner.png.jpeg" width="100%">
-</p>
 
-<h1 align="center">🚀 Ansh's Coding Journey</h1>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi;Java+Developer+in+Progress...;DSA+Explorer;" />
 </p>
 
