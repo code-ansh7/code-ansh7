@@ -1,97 +1,159 @@
- <p align="center">
-  <img src="https://raw.githubusercontent.com/code-ansh7/code-ansh7/main/banner.png.jpeg" width="100%">
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi;Java+Developer+in+Progress...;DSA+Explorer;" />
-</p>
+<img src="https://raw.githubusercontent.com/code-ansh7/code-ansh7/main/banner.png.jpeg" width="100%"/>
 
----
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-ansh7&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi+%F0%9F%91%8B;Core+Java+Developer+in+Progress+%E2%98%95;DSA+Learner+%F0%9F%A7%A0;Future+Flutter+App+Developer+%F0%9F%9A%80" />
 
-## 👨‍💻 About Me
+<br><br>
 
-🎓 B.Tech CSE Student
+<img src="https://komarev.com/ghpvc/?username=code-ansh7&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 
-☕ Learning Java & Problem Solving
-
-🧠 Exploring Data Structures & Algorithms
-
-🌱 Growing One Commit At A Time
+</div>
 
 ---
-
-## 🎯 Current Mission
-
-```text
-☑ Java Basics
-☑ OOPs
-☑ Exception Handling
-☑ Collections Framework
-☐ File Handling
-☐ DSA Patterns
-
-```
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,vscode,<br>,html,css,js,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-ansh7&show_icons=true&theme=radical"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-ansh7&theme=radical" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-ansh7&layout=compact&theme=radical"/>
-</p>
-
----
-
-
-## ⚡ Current Focus
 
 ```java
-while(!success){
-    learn();
-    practice();
-    build();
+
+class AnshRastogi {
+
+    String education = "B.Tech CSE";
+    String currentFocus = "Core Java";
+    String nextGoal = "Desktop Applications (Swing)";
+    String futureGoal = "Flutter App Development";
+
+    void life() {
+        learn();
+        practice();
+        build();
+        repeat();
+    }
 }
+
 ```
+🎓 B.Tech Computer Science Student
 
-## 🏆 2026 Goals
+☕ Currently mastering Core Java
 
-- Complete Java
-- Master DSA Fundamentals
-- Upload Projects on GitHub
-- Maintain Daily Coding Streak
+🧠 Learning Data Structures & Algorithms
+
+💻 Building projects while documenting every milestone
+
+🌱 Improving one commit at a time
+
+---
+
+# 🚀 What I'm Currently Working On
+
+* ☕ Mastering Core Java
+* 🧠 Learning Data Structures & Algorithms
+* 🏗 Building Console Applications
+* 🌱 Improving every day through consistent coding
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-ansh7&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-ansh7&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-ansh7&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <p align="center">
-  <b>⭐ Code. Learn. Repeat. ⭐</b>
+
+<img src="https://img.shields.io/badge/Core%20Java-95%25-success?style=for-the-badge&logo=java"/>
+
+<img src="https://img.shields.io/badge/DSA-In%20Progress-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Swing-Coming%20Soon-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flutter-Future-02569B?style=for-the-badge&logo=flutter"/>
+
 </p>
 
+
+## ⚡ Coding Activity
+
 <p align="center">
-  <b>🚀 One Commit At A Time 🚀</b>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-ansh7&theme=tokyo-night"/>
+
 </p>
+
+---
+
+# 💭 Developer Mindset
+
+```java
+
+ public class CurrentLife {
+
+    public static void main(String[] args) {
+
+        while(!dreamAchieved){
+
+            learn();
+            code();
+            debug();
+            buildProjects();
+            repeat();
+
+        }
+
+    }
+
+}
+
+```
+
+---
+
+# 🌟 2026 Goals
+
+* ☕ Complete Core Java
+* 📚 Strengthen DSA Fundamentals
+* 🖥 Build Java Console Projects
+* 🎨 Learn Java Swing
+* 📱 Start Flutter Development
+* 🔥 Maintain Daily GitHub Contributions
+
+---
+
+<p align="center">
+
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</p>
+
+---
+<div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+</div>
