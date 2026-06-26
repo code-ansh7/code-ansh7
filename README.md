@@ -15,7 +15,6 @@
 ---
 
 ```java
-
 class AnshRastogi {
 
     String education = "B.Tech CSE";
@@ -30,8 +29,11 @@ class AnshRastogi {
         repeat();
     }
 }
-
 ```
+---
+
+# About Me📚...
+
 🎓 B.Tech Computer Science Student
 
 ☕ Currently mastering Core Java
