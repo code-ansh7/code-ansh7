@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-ansh7&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 ## 👨‍💻 About Me
 
 🎓 B.Tech CSE Student
