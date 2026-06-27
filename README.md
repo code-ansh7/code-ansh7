@@ -17,7 +17,7 @@
 ```java
 class AnshRastogi {
 
-    String RoleModel = Utkarsh Rastogi;
+    String RoleModel = "Utkarsh Rastogi";
     String education = "B.Tech CSE";
     String currentFocus = "Core Java";
     String nextGoal = "Desktop Applications (Swing)";
