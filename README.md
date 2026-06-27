@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi+%F0%9F%91%8B;Core+Java+Developer+in+Progress+%E2%98%95;DSA+Learner+%F0%9F%A7%A0;Future+Flutter+App+Developer+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi+%F0%9F%91%8B;Core+Java+Developer+%E2%98%95;DSA+Learner+%F0%9F%A7%A0;Future+Flutter+App+Developer+%F0%9F%9A%80" />
 
 <br><br>
 
