@@ -17,6 +17,7 @@
 ```java
 class AnshRastogi {
 
+    String RoleModel = Utkarsh Rastogi(Flutter App Developer)
     String education = "B.Tech CSE";
     String currentFocus = "Core Java";
     String nextGoal = "Desktop Applications (Swing)";
@@ -65,6 +66,21 @@ class AnshRastogi {
 
 ---
 
+## 👨‍💻 My Inspiration(Utkarsh Rastogi)
+
+```java
+String roleModel = "Utkarsh Rastogi";
+
+while(!success){
+    learn();
+    practice();
+    improve();
+    remember(roleModel);
+}
+ ```
+*"Every achievement begins with someone's encouragement."*
+
+---
 # 📊 GitHub Statistics
 
 <div align="center">
