@@ -102,13 +102,11 @@ while(!success){
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Core%20Java-95%25-success?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Core%20Java-Completed-success?style=for-the-badge&logo=java"/>
 
 <img src="https://img.shields.io/badge/DSA-In%20Progress-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Swing-Coming%20Soon-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Flutter-Future-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Flutter-Upcoming-02569B?style=for-the-badge&logo=flutter"/>
 
 </p>
 
