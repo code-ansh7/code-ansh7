@@ -82,9 +82,16 @@ while(!success){
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-ansh7&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=code-ansh7&theme=aura&hide_border=false&include_all_commits=false&count_private=false"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-ansh7&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+# Used Languages
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=code-ansh7&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </div>
 
@@ -94,7 +101,7 @@ while(!success){
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-ansh7&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=code-ansh7&theme=aura&hide_border=false"/>
 
 </div>
 
