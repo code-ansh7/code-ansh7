@@ -93,7 +93,7 @@ while(!success){
 </div>
 
 ---
-# Used Languages
+# 🥇Used Languages
 
 <div align="center">
 
