@@ -88,8 +88,8 @@ while(!success){
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=code-ansh7&theme=aura&hide_border=false&include_all_commits=false&count_private=false"/>
-
+ ![](https://github-readme-stats.shion.dev/api?username=code-ansh7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ 
 </div>
 
 ---
@@ -97,8 +97,8 @@ while(!success){
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=code-ansh7&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
+ ![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-ansh7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 </div>
 
 ---
@@ -107,8 +107,8 @@ while(!success){
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=code-ansh7&theme=aura&hide_border=false"/>
-
+ ![](https://streak-stats.demolab.com/?user=code-ansh7&theme=tokyonight&hide_border=false)<br/>
+ 
 </div>
 
 ---
