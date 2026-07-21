@@ -64,7 +64,7 @@ class AnshRastogi {
 
 <h2 align="center">🧰 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,dart,c,cpp,python,html,css,js,git,github,vscode" />
 </p>
 
 ---
