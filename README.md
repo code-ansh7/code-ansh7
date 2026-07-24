@@ -176,18 +176,6 @@ while(!success){
 }
 
 ```
-
----
-
-# 🌟 2026 Goals
-
-* ☕ Complete Core Java
-* 📚 Strengthen DSA Fundamentals
-* 🖥 Build Java Console Projects
-* 🎨 Learn Java Swing
-* 📱 Start Flutter Development
-* 🔥 Maintain Daily GitHub Contributions
-
 ---
 
 <p align="center">
