@@ -62,10 +62,29 @@ class AnshRastogi {
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,dart,c,cpp,python,html,css,js,git,github,vscode" />
+<div align="center">
+
+# 🧰 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,java,cpp,c,python,html,css,javascript" />
 </p>
+
+## ⚙️ Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,git,github,vscode,idea,androidstudio" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+    <img src="https://skillicons.dev/icons?i=firebase">
+</p>
+
+</div>
 
 ---
 
