@@ -25,9 +25,8 @@ class AnshRastogi {
 
     String RoleModel = "Utkarsh Rastogi";
     String education = "B.Tech CSE";
-    String currentFocus = "Core Java";
-    String nextGoal = "Desktop Applications (Swing)";
-    String futureGoal = "Flutter App Development";
+    String currentFocus = "Dart/Flutter";
+    String futureGoal = "Real World Flutter Apps";
 
     void life() {
         learn();
@@ -55,7 +54,7 @@ class AnshRastogi {
 
 # 🚀 What I'm Currently Working On
 
-* ☕ Mastering Core Java
+* ☕ Mastered Core Java
 * 🧠 Learning Data Structures & Algorithms
 * 🏗 Building Console Applications
 * 🌱 Improving every day through consistent coding
@@ -69,7 +68,7 @@ class AnshRastogi {
 ## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,java,cpp,c,python,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,java,cpp,c,python,html,css,javascript" />
 </p>
 
 ## ⚙️ Tools & IDEs
