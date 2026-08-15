@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi+%F0%9F%91%8B;Core+Java+Developer+%E2%98%95;DSA+Learner+%F0%9F%A7%A0;Future+Flutter+App+Developer+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Ansh+Rastogi+%F0%9F%91%8B;Core+Java+Developer+%E2%98%95;DSA+Learner+%F0%9F%A7%A0;Flutter+App+Developer+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -25,7 +25,7 @@ class AnshRastogi {
 
     String RoleModel = "Utkarsh Rastogi";
     String education = "B.Tech CSE";
-    String currentFocus = "Dart/Flutter";
+    String currentFocus = "Building Real World Apps";
     String futureGoal = "Real World Flutter Apps";
 
     void life() {
@@ -42,7 +42,7 @@ class AnshRastogi {
 
 🎓 B.Tech Computer Science Student
 
-☕ Currently mastering Core Java
+☕ Currently mastering Flutter and Backend
 
 🧠 Learning Data Structures & Algorithms
 
@@ -56,7 +56,7 @@ class AnshRastogi {
 
 * ☕ Mastered Core Java
 * 🧠 Learning Data Structures & Algorithms
-* 🏗 Building Console Applications
+* 🏗 Building Flutter UI
 * 🌱 Improving every day through consistent coding
 
 ---
@@ -137,7 +137,7 @@ while(!success){
 
 <img src="https://img.shields.io/badge/DSA-In%20Progress-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Flutter-Upcoming-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Flutter-Processing-02569B?style=for-the-badge&logo=flutter"/>
 
 </p>
 
