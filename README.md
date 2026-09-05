@@ -121,16 +121,6 @@ while(!success){
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-
-</div>
-
----
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Core%20Java-Completed-success?style=for-the-badge&logo=java"/>
