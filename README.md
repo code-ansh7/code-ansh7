@@ -121,12 +121,12 @@ while(!success){
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
- ![](https://streak-stats.demolab.com/?user=code-ansh7&theme=tokyonight&hide_border=false)<br/>
- 
+<img src="./profile/streak.svg" alt="GitHub Streak" />
+
 </div>
 
 ---
