@@ -121,6 +121,15 @@ while(!success){
 
 ---
 
+# GitHub Streak
+<div align="center">
+
+ ![](https://streak-stats.demolab.com/?user=code-ansh7&theme=tokyonight&hide_border=false)<br/>
+ 
+</div>
+
+---
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Core%20Java-Completed-success?style=for-the-badge&logo=java"/>
